@@ -23,4 +23,5 @@ Posing Question- All the relevant question are posted
 
 Analysing Modelling and Visualizing- Here we analyse,model and finally make plots to visulize them.
 
-Conclusion- After having look at different data we can definitely conclude that making movie is a growing business. Also among the movies Action and Adventure genre have the greatest success.
+### Conclusion 
+After having look at different data we can definitely conclude that making movie is a growing business. Also among the movies Action and Adventure genre have the greatest success.
