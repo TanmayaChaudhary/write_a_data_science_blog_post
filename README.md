@@ -1,5 +1,9 @@
 # write_a_data_science_blog_post
 
+#### Please follow the link for the for the blog post:-
+
+https://medium.com/@pk611886/tmdb-movie-database-movie-mania-63bf40acf1fe
+
 ### Introduction
 This data is from Movie Database (TMDb) which contains info about different movies.The data contains several details about different parameters of the movie such as user ratings and revenue,budget,revenue,original_title,cast etc.This project is associated with using this dataset as input and draw meaningful observations.Finally communicating the observations to the people.
 
@@ -25,3 +29,5 @@ Analysing Modelling and Visualizing- Here we analyse,model and finally make plot
 
 ### Conclusion 
 After having look at different data we can definitely conclude that making movie is a growing business. Also among the movies Action and Adventure genre have the greatest success.
+
+
