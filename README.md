@@ -1,5 +1,9 @@
 # write_a_data_science_blog_post
 
+#### My github repo link:-
+
+https://github.com/prast567/write_a_data_science_blog_post
+
 #### Please follow the link for the for the blog post:-
 
 https://medium.com/@pk611886/tmdb-movie-database-movie-mania-63bf40acf1fe
