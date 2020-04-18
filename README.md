@@ -25,11 +25,12 @@ write_a_data_science_blog_post.ipynb file- It is jupyternote book generated file
 tmdb-movies.csv- Contains the raw data to be processed. 
 
 ### Process involved
-Preparing data- In this section of the report, we will load in the data, check for cleanliness, and then trim and clean the dataset for analysis.
 
+The process starts with business understanding.
 Posing Question- All the relevant question are posted
-
+Preparing data- In this section of the report, we will load in the data, check for cleanliness, and then trim and clean the dataset for analysis.
 Analysing Modelling and Visualizing- Here we analyse,model and finally make plots to visulize them.
+Evaluation- Finally all the evaluations are made
 
 ### Conclusion 
 After having look at different data we can definitely conclude that making movie is a growing business. Also among the movies Action and Adventure genre have the greatest success.
